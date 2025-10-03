@@ -18,8 +18,8 @@ class SETUP_CHECK:
         self.check_libs()
         self.check_dependencies()
         self.check_r_packages()
-        self.check_template_files()
         self.check_database_files()
+        self.check_template_files()
 
     def check_libs(self):
         required_packages = {

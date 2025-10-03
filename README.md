@@ -48,6 +48,7 @@ tqdm=4.67.1
 boolean.py=5.0
 openpyxl=3.1.5
 requests=2.32.5
+numpy=2.2.5
 ```
 
 **R (for figure generation)**
