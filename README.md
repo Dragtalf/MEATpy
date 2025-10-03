@@ -168,7 +168,7 @@ conda deactivate && conda activate MEATpy-env
     MAGs prepared using nf-core/MAG can be copied to the fasta folder and can be optionally renamed using the program commands.
     example: ~/INPUT_FOLDER/fasta/ALL_YOUR_FASTA_FILES
 2. A .csv containing the path to your reads
-    example: ~/reads/Sample_R1.fastq.gz,~/reads/Sample_R2.fastq.gz
+    example: ~/reads/Sample_R1.fastq.gz, ~/reads/Sample_R2.fastq.gz
 
 ## Running
 
