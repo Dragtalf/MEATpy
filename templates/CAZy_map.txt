@@ -1,0 +1,193 @@
+Family	Enzyme	Substrate	Class of Substrate
+GH163	endo-β-N-acetylglucosaminidase	acetylglucosaminide	amino sugar
+GH050	β-agarase	agarose	other polysaccharides
+GH086	β-agarase	agarose	other polysaccharides
+GH096	α-agarase	agarose	other polysaccharides
+GH118	β-agarase	agarose	other polysaccharides
+GH035	β-galactosidase	AG-oligosaccharide	hemicellulose
+GH042	β-galactosidase	AG-oligosaccharide	hemicellulose
+GH147	β-galactosidase	AG-oligosaccharide	hemicellulose
+GH160	endo-β-1,4-galactosidase	AG-oligosaccharide	hemicellulose
+GH165	β-galactosidase	AG-oligosaccharide	hemicellulose
+PL005	alginate lyase	alginate	other polysaccharides
+PL006	alginate lyase	alginate	other polysaccharides
+PL007	alginate lyase	alginate	other polysaccharides
+PL014	alginate lyase	alginate	other polysaccharides
+PL017	alginate lyase	alginate	other polysaccharides
+PL018	alginate lyase	alginate	other polysaccharides
+PL034	alginate lyase	alginate	cellulose
+PL015	oligoalginate lyase	alginate oligosaccharide	other polysaccharides
+GH071	α-1,3-glucanase	α-1,3-glucan	other polysaccharides
+GH087	α-1,3-glucanase	α-1,3-glucan	other polysaccharides
+GH123	N-acetylgalactosaminidase	amino sugar	amino sugar
+GH129	N-acetylgalactosaminidase	amino sugar	amino sugar
+GH049	dextranase; isopullulanase; dextran 1,6-α-isomaltotriosidase; sulfated arabinan endo-1,4-β-L-arabinanase	arabinan; dextran	other polysaccharides
+GH093	exo-1,5-α-L-arabinanase	arabinanan	hemicellulose
+GH053	β-1,4-endogalactanase	arabinogalactan	hemicellulose
+GH121	β-arabinobiosidase	arabinoside	hemicellulose
+GH159	β-D-galactofuranosidase	β-D-galactofuranoside	monosaccharides
+GH150	l-carrageenase	carrageenan	other polysaccharides
+GH094	cellobiose phosphorylase	cellobiose	cellulose
+GH030	β-glucosidase; β-1,4-xylosidase; β-galactosidase; β-fucosidase	cellobiose; xylo-oligosaccharide; AG-oligosaccharide; D-fucoside	cellulose, hemicellulose
+GH003	β-glucosidase; β-1,4-xylosidase; α-arabinofuranosidase; β-1,3-glucosidase	cellobiose; xylo-oligosaccharide; L-arabinofuranoside; D-glucan	cellulose, hemicellulose
+GH006	endoglucanase; cellobiohydrolase	cellulose	cellulose
+GH124	endoglucanase	cellulose	cellulose
+GH131	exo-β-1,3-glucanase; exo-β-1,6-glucanase	cellulose	cellulose
+GH132	β-1,3-glucanase	cellulose	cellulose
+GH144	endo-β-1,2-glucanase; β-1,2-glucooligosaccharide sophorohydrolase	cellulose	cellulose
+GH148	β-1,3-glucanase	cellulose	cellulose
+GH149	β-1,3-glucan phosphorylase	cellulose	cellulose
+GH157	endo-β-1,3-glucanase; endo-β-1,3-glucanase; laminarinase	cellulose	cellulose
+GH158	endo-β-1,3-glucanase	cellulose	cellulose
+GH161	β-1,3-glucan phosphorylase	cellulose	cellulose
+GH162	endo-β-1,2-glucanase	cellulose	cellulose
+GH009	β-1,4-endoglucanase; cellobiohydrolase; β-glucosidase	cellulose; cellobiose	cellulose
+GH048	cellobiohydrolase; endo-β-1,4-glucanase; chitinase	cellulose; glucan; chitin	cellulose; hemicellulose; chitin
+GH074	β-1,4-endoglucanase; endoglucanase; xyloglucanase	cellulose; hyloglucan	cellulose; hemicellulose
+GH051	α-arabinofuranosidase; β-1,4-endoglucanase	cellulose; L-arabinofuranoside	cellulose; hemicellulose
+GH008	chitosanase; β-1,4-endoglucanase; β-1,4-endoxylanase	cellulose; xylan; chitosan	cellulose; hemicellulose; chitin
+GH005	chitosanase; β-mannosidase; cellulase; β-endomannanase; β-mannanase; β-1,4-endoxylanase; cellobiohydrolase; β-1,4-xylosidase	cellulose; xylan; mannan	cellulose; hemicellulose; chitin
+GH044	β-1,4-endoglucanase; endoglucanase; xyloglucanase	cellulose; xyloglucan	cellulose; hemicellulose
+GH045	endoglucanase; xyloglucan-specific endo-β-1,4-glucanase; endo-xyloglucanase; endo-β-1,4-mannanase	cellulose; xyloglucan; mannan	cellulose; hemicellulose
+GH018	chitinase	chitin	chitin
+GH019	chitinase	chitin	chitin
+GH046	chitosanase	chitosan	chitin
+GH075	chitosanase	chitosan	chitin
+GH080	chitosanase	chitosan	chitin
+PL023	chondroitin lyase	chondroitin	amino sugar
+PL035	chondroitin lyase; chondroitinase; chondroitin AC lyase	chondroitin	amino sugar
+PL037	chondroitin-sulfate ABC endolyase; heparin-sulfate lyase; heparin lyase III; ulvan lyase	chondroitin; ulvan	amino sugar; other polysaccharides
+GH066	dextranase	dextran	other polysaccharides
+GH059	galactocerebrosidase	D-galactosyl-N-acylsphingosine	amino sugar
+PL020	endo-β-1,4-glucuronan lyase	D-glucuronan	other polysaccharides
+PL031	endo-β-1,4-glucuronan lyase	endo-β-1,4-glucuronan	other polysaccharides
+GH032	exo-β-fructosidase	fructan	other polysaccharides
+GH100	exo-β-fructosidase	fructan	other polysaccharides
+GH101	endo-α-N-acetylgalactosaminidase	galactosaminide	amino sugar
+GH109	α-N-acetylgalactosaminidase	galactosaminide	amino sugar
+GH114	endo-α-1,4-polygalactosaminidase	galactosaminide	amino sugar
+GH135	α-1,4-galactosaminogalactan hydrolase	galactosaminogalactan	other polysaccharides
+GH112	D-galactosyl-1,4-L-rhamnose phosphorylase	galactosyl-L-rhamnose	pectin
+GH153	poly-β-1,6-D-glucosamine hydrolase	glucosamine	amino sugar
+GH079	β-glucuronidase	glucuronoside	amino sugar
+GH154	β-glucuronidase	glucuronoside	hemicellulose
+GH067	α-glucuronidase; xylan α-1,2-glucuronosidase	glucuronoside; glucuroxylan	hemicellulose
+PL012	heparin-sulfate lyase	heparin	amino sugar
+PL013	heparin lyase	heparin	amino sugar
+PL021	heparin-sulfate lyase	heparin sulfate	amino sugar
+GH020	hexosaminidase	hexosaminide	amino sugar
+PL008	hyaluronate lyase	hyaluronan	amino sugar
+PL016	hyaluronate lyase	hyaluronan	amino sugar
+PL029	hyaluronate lyase; chondroitin-sulfate ABC endolyase; dermatan sulfate lyase	hyaluronate; chondroitin; dermatan	amino sugar
+PL030	hyaluronate lyase	hyaluronate	amino sugar
+PL033	hyaluronate lyase; gellan lyase; chondroitin sulfate lyase	hyaluronate	amino sugar
+GH056	hyaluronidase; chondroitin hydrolase	hyaluronate; chondroitin	amino sugar
+GH091	CFTase	inulin	other polysaccharides
+GH111	keratan sulfate hydrolase	keratan sulfate	amino sugar
+GH128	β-1,3-glucosidase	laminarin; paramylon; pachyman	other polysaccharides
+GH016	β-1,3-glucosidase	laminarin; paramylon; pachyman; D-glucan	other polysaccharides
+GH017	β-1,3-glucosidase	laminarin; paramylon; pachyman; D-glucan	other polysaccharides
+GH055	β-1,3-glucosidase	laminarin; paramylon; pachyman; D-glucan	other polysaccharides
+GH064	β-1,3-glucosidase	laminarin; paramylon; pachyman; D-glucan	other polysaccharides
+GH081	β-1,3-glucosidase	laminarin; paramylon; pachyman; D-glucan	other polysaccharides
+GH152	β-1,3-glucanase	laminarin; paramylon; pachyman; D-glucan	other polysaccharides
+GH062	α-arabinofuranosidase	L-arabinofuranoside	hemicellulose
+GH127	α-arabinofuranosidase	L-arabinofuranoside	hemicellulose
+GH029	α-fucosidase	L-fucoside	hemicellulose
+GH095	α-fucosidase	L-fucoside	hemicellulose
+GH133	amylo-1,6-glucosidase	limit dextrin	starch
+PL027	L-rhamnose-α-1,4-D-glucuronate lyase	arabinogalactan	hemicellulose
+GH077	amylomaltase	maltose	starch
+GH113	β-endomannanase; β-mannanase	mannan	hemicellulose
+GH134	endo-β-1,4-mannanase	mannan	hemicellulose
+GH164	β-mannosidase	mannan	hemicellulose
+GH099	glycoprotein endo-α-1,2-mannosidase	manno-glycoprotein	amino sugar
+GH038	α-mannosidase	mannooligosaccharide	hemicellulose
+GH047	α-mannosidase	mannooligosaccharide	hemicellulose
+GH076	β-mannosidase	mannooligosaccharide	hemicellulose
+GH092	α-mannosidase	mannooligosaccharide	hemicellulose
+GH125	α-mannosidase	mannooligosaccharide	hemicellulose
+GH130	β-1,4-mannooligosaccharide phosphorylase	mannooligosaccharide	hemicellulose
+GH036	α-galactosidase	melibiose	hemicellulose
+GH027	α-galactosidase; β-arabinopyranosidase	melibiose; AG-oligosaccharide	hemicellulose
+GH085	endo-β-N-acetylglucosaminidase	N-acetyl-α-D-glucosaminide	amino sugar
+GH089	α-N-acetylglucosaminidase	N-acetyl-α-D-glucosaminide	amino sugar
+GH117	neoagarobiose hydrolase	neoagarobiose	other polysaccharides
+GH083	neuraminidase	neuraminic acid	other polysaccharides
+PL022	oligogalacturonide lyase	oligogalacturonide	pectin
+GH001	β-glucosidase; β-mannosidase; α-fucosidase; α-galactosidase; α-glucuronidase	oligosaccharide-chain	cellulose; hemicellulose
+GH002	β-glucosaminidase; β-mannosidase; β-galactosidase; β-glucuronidase	oligosaccharide-chain; peptidoglycan	hemicellulose; chitin; amino sugar
+GH136	lacto-N-biosidase	oligosaccharide-chain	other polysaccharides
+GH137	β-L-arabinofuranosidase	oligosaccharide-chain	hemicellulose; chitin
+GH142	β-L-arabinofuranosidase	oligosaccharide-chain	hemicellulose; chitin
+GH146	β-L-arabinofuranosidase	oligosaccharide-chain	hemicellulose; chitin
+GH088	unsaturated glucuronyl hydrolase	oligosaccharide	other polysaccharides
+GH072	β-1,3-glucanosyltransglycosylase	β-1,3-glucan	other polysaccharides
+GH028	polygalacturonase; exo-polygalacturonase; exo-polygalacturonosidase; rhamnogalacturonase; endo-xylogalacturonan hydrolase; rhamnogalacturonan α-L-rhamnopyranohydrolase	pectin	pectin
+GH120	pectin lyase	pectin	pectin
+PL001	pectin lyase; pectate lyase	pectin	pectin
+PL002	pectate lyase	pectin	pectin
+PL003	pectate lyase	pectin	pectin
+PL009	pectate lyase	pectin	pectin
+PL010	pectate lyase	pectin	pectin
+PL011	endo-rhamnogalacturonase	pectin	pectin
+GH022	lysozyme	peptidoglycan	amino sugar
+GH023	lysozyme	peptidoglycan	amino sugar
+GH024	lysozyme	peptidoglycan	amino sugar
+GH025	lysozyme	peptidoglycan	amino sugar
+GH073	N-acetylmuramidase	peptidoglycan	amino sugar
+GH102	peptidoglycan lytic transglycosylase	peptidoglycan	amino sugar
+GH103	peptidoglycan lytic transglycosylase	peptidoglycan	amino sugar
+GH104	peptidoglycan lytic transglycosylase	peptidoglycan	amino sugar
+GH108	N-acetylmuramidase	peptidoglycan	amino sugar
+PL032	poly(β-mannuronate) lyase; M-specific alginate lyase	poly(β-mannuronate)	cellulose
+PL036	poly(β-mannuronate) lyase; M-specific alginate lyase	poly(β-mannuronate)	cellulose
+GH105	unsaturated rhamnogalacturonyl hydrolase	rhamnogalacturan	pectin
+GH138	rhamnogalacturonan α-1,2-galacturonohydrolase	rhamnogalacturonan	pectin
+GH140	apiosidase	rhamnogalacturonan	pectin
+GH143	2-keto-3-deoxy-D-lyxo-heptulosaric acid hydrolase	rhamnogalacturonan	pectin
+PL004	rhamnogalacturonan endolyase	rhamnogalacturonan	pectin
+PL026	rhamnogalacturonan exolyase	rhamnogalacturonan	pectin
+GH145	L-Rhα-α-1,4-GlcA α-L-rhamnohydrolase	arabinogalactan	hemicellulose
+GH078	α-rhamnosidase	rhamnoside	pectin
+GH090	endorhamnosidase	rhamnoside	pectin
+GH106	α-rhamnosidase	rhamnoside	pectin
+GH033	sialidase	sialic acid	monosaccharides
+GH034	sialidase; neuraminidase	sialic acid	monosaccharides
+GH058	endo-N-acetylneuraminidase; endo-sialidase	sialic acid	monosaccharides
+GH084	sialidase	sialic acid	monosaccharides
+GH156	exo-α-sialidase	sialic acid	monosaccharides
+GH015	glucoamylase	starch	starch
+GH063	α-glucosidase	starch	starch
+GH119	α-amylase; endoamylase	starch	starch
+GH122	α-glucosidase	starch	starch
+GH126	α-amylase; endoamylase	starch	starch
+GH004	α-glucosidase; α-galactosidase; α-glucuronidase	starch; AG-oligosaccharide; glucuronoside	starch; hemicellulose
+GH057	α-amylase; endoamylase; α-galactosidase	starch; melibiose	starch; hemicellulose
+GH097	α-glucosidase; α-galactosidase	starch; melibiose	starch; hemicellulose
+GH013	α-amylase; endoamylase	starch; pullulan	starch; pullulan
+GH031	α-glucosidase; α-xylosidase	starch; xyloglucan	starch
+GH070	dextransucrase	sucrose	starch
+GH068	levansucrase; exo-β-fructosidase; inulosucrase	sucrose; fructan	starch
+GH107	fucanase	sulfated fucan	other polysaccharides
+PL024	ulvan lyase	ulvan	other polysaccharides
+PL025	ulvan lyase	ulvan	other polysaccharides
+PL028	ulvan lyase	ulvan	other polysaccharides
+GH010	β-1,4-endoxylanase; β-1,3-endoxylanase	xylan	hemicellulose
+GH011	endo-β-1,4-xylanase; endo-β-1,3-xylanase	xylan	hemicellulose
+GH110	β-1,4-endoxylanase	xylan	hemicellulose
+GH115	α-glucuronidase	xylan	hemicellulose
+GH098	endo-β-1,4-galactosidase; endo-β-1,4-xylanase; endo-β-1,4-xylanase	xylan; AG-oligosaccharide	hemicellulose
+GH043	β-1,4-xylosidase; β-1,3-xylosidase; β-galactosidase; α-arabinofuranosidase; arabinase; β-1,4-endoxylanase	xylan; arabinan; xylo-oligosaccharide; AG-oligosaccharide; L-arabinofuranoside	hemicellulose
+GH026	β-mannanase; β-1,3-endoxylanase	xylan; mannan	hemicellulose
+GH012	endoglucanase; xyloglucanase	xyloglucan	hemicellulose
+GH151	α-L-fucosidase	α-L-fucoside	hemicellulose
+GH039	β-1,4-xylosidase	xylo-oligosaccharide	hemicellulose
+GH052	β-1,4-xylosidase	xylo-oligosaccharide	hemicellulose
+GH116	β-glucosidase; β-1,4-xylosidase	xylo-oligosaccharide	cellulose; hemicellulose
+GH054	β-1,4-xylosidase; α-arabinofuranosidase	xylo-oligosaccharide; L-arabinofuranoside	hemicellulose
+GH037	α,α-trehalase	α,α-trehalose	starch
+GH065	α,α-trehalase; maltose phosphorylase; kojibiose phosphorylase	α,α-trehalose; maltose; trehalose; kojibiose	starch
+GH139	α-2-O-Me-L-fucosidase	β-D-fucoside	hemicellulose
+GH141	α-L-fucosidase; xylanase	β-D-fucoside; xylan	hemicellulose
+GH082	λ-carrageenase	λ-carrageenan	other polysaccharides

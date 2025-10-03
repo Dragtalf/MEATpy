@@ -1,0 +1,9 @@
+MEATpy_template_and_database/kofam_database/*
+MEATpy_template_and_database/METABOLIC_hmm_db/*
+MEATpy_template_and_database/motif_frequency/*
+TEST_OUT/*
+MEATpy_test_files/*
+modules/__pycache__/*
+__pycache__/*
+bin/*
+share/*

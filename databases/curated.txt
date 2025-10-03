@@ -1,0 +1,480 @@
+category	EC	gene_name	Hmm_file	Hmm_threshold
+Amino Acid Metabolism	1.1.1.23	histidinol dehydrogenase		
+Amino Acid Metabolism	1.1.1.3	homoserine dehydrogenase		
+Amino Acid Metabolism	1.1.1.85	3-isopropylmalate dehydrogenase		
+Amino Acid Metabolism	1.1.1.86	ketol-acid reductoisomerase		
+Amino Acid Metabolism	1.3.1.12	prephenate dehydrogenase		
+Amino Acid Metabolism	1.3.1.26	4-hydroxy-tetrahydrodipicolinate reductase		
+Amino Acid Metabolism	1.4.1.1	alanine dehydrogenase		
+Amino Acid Metabolism	1.4.1.13	glutamate synthase (NADPH) large chain; glutamate synthase (NADPH) small chain		
+Amino Acid Metabolism	1.5.1.2	pyrroline-5-carboxylate reductase		
+Amino Acid Metabolism	1.5.99.8	proline dehydrogenase		
+Amino Acid Metabolism	2.1.2.1	glycine hydroxymethyltransferase		
+Amino Acid Metabolism	2.1.3.3	ornithine carbamoyltransferase		
+Amino Acid Metabolism	2.3.1.1	N-acetylglutamate synthase		
+Amino Acid Metabolism	2.3.1.16	acetyl-CoA acyltransferase		
+Amino Acid Metabolism	2.3.1.30	serine O-acetyltransferase		
+Amino Acid Metabolism	2.3.3.13	2-isopropylmalate synthase		
+Amino Acid Metabolism	2.4.2.17	ATP phosphoribosyltransferase		
+Amino Acid Metabolism	2.5.1.16	spermidine synthase		
+Amino Acid Metabolism	2.5.1.47	cysteine synthase		
+Amino Acid Metabolism	2.5.1.48	cystathionine gamma-synthase		
+Amino Acid Metabolism	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase		
+Amino Acid Metabolism	2.6.1.1	aspartate aminotransferase		
+Amino Acid Metabolism	2.6.1.11	acetylornithine/N-succinyldiaminopimelate aminotransferase		
+Amino Acid Metabolism	2.6.1.124	[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase		
+Amino Acid Metabolism	2.6.1.13	ornithine--oxo-acid transaminase		
+Amino Acid Metabolism	2.6.1.19	4-aminobutyrate aminotransferase; 4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase; 4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase; 5-aminovalerate/4-aminobutyrate aminotransferase		
+Amino Acid Metabolism	2.6.1.36	L-lysine 6-transaminase		
+Amino Acid Metabolism	2.6.1.42	branched-chain amino acid aminotransferase		
+Amino Acid Metabolism	2.6.1.45	alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase		
+Amino Acid Metabolism	2.6.1.52	phosphoserine aminotransferase		
+Amino Acid Metabolism	2.6.1.57	aromatic-amino-acid transaminase		
+Amino Acid Metabolism	2.6.1.66	valine--pyruvate aminotransferase		
+Amino Acid Metabolism	2.6.1.81	succinylornithine aminotransferase		
+Amino Acid Metabolism	2.6.1.9	histidinol-phosphate aminotransferase		
+Amino Acid Metabolism	2.7.1.39	homoserine kinase		
+Amino Acid Metabolism	2.7.1.71	shikimate kinase		
+Amino Acid Metabolism	2.7.2.11	glutamate 5-kinase		
+Amino Acid Metabolism	2.7.2.4	aspartate kinase		
+Amino Acid Metabolism	2.7.2.8	acetylglutamate kinase		
+Amino Acid Metabolism	2.8.3.5	3-oxoacid CoA-transferase		
+Amino Acid Metabolism	3.5.1.2	glutaminase		
+Amino Acid Metabolism	3.5.3.11	agmatinase		
+Amino Acid Metabolism	3.5.4.1	cytosine/creatinine deaminase		
+Amino Acid Metabolism	3.5.4.19	phosphoribosyl-AMP cyclohydrolase		
+Amino Acid Metabolism	3.6.1.31	phosphoribosyl-ATP pyrophosphohydrolase		
+Amino Acid Metabolism	4.1.1.15	glutamate decarboxylase		
+Amino Acid Metabolism	4.1.1.17	ornithine decarboxylase		
+Amino Acid Metabolism	4.1.1.18	lysine decarboxylase		
+Amino Acid Metabolism	4.1.1.19	arginine decarboxylase		
+Amino Acid Metabolism	4.1.1.48	indole-3-glycerol phosphate synthase		
+Amino Acid Metabolism	4.1.2.14	2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase		
+Amino Acid Metabolism	4.1.2.5	L-threonine aldolase		
+Amino Acid Metabolism	4.1.3.27	anthranilate synthase		
+Amino Acid Metabolism	4.1.3.38	4-amino-4-deoxychorismate lyase; para-aminobenzoate synthetase / 4-amino-4-deoxychorismate lyase		
+Amino Acid Metabolism	4.2.1.10	3-dehydroquinate dehydratase I; 3-dehydroquinate dehydratase II		
+Amino Acid Metabolism	4.2.1.52	4-hydroxy-tetrahydrodipicolinate synthase		
+Amino Acid Metabolism	4.2.1.9	dihydroxy-acid dehydratase		
+Amino Acid Metabolism	4.2.3.1	threonine synthase		
+Amino Acid Metabolism	4.2.3.5	chorismate synthase		
+Amino Acid Metabolism	4.3.1.19	L-serine/L-threonine ammonia-lyase		
+Amino Acid Metabolism	4.3.2.1	argininosuccinate lyase		
+Amino Acid Metabolism	4.4.1.15	D-cysteine desulfhydrase		
+Amino Acid Metabolism	5.1.1.13	aspartate racemase		
+Amino Acid Metabolism	5.1.1.7	diaminopimelate epimerase		
+Amino Acid Metabolism	5.4.99.5	chorismate mutase		
+Amino Acid Metabolism	6.3.1.1	aspartate--ammonia ligase		
+Amino Acid Metabolism	6.3.1.2	glutamine synthetase		
+Amino Acid Metabolism	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase		
+Amino Acid Metabolism	6.3.4.4	adenylosuccinate synthase		
+Amino Acid Metabolism	6.3.4.5	argininosuccinate synthase		
+Amino Acid Metabolism	6.3.5.5	carbamoyl-phosphate synthase small subunit		
+Amino Acid Metabolism	K05825	2-aminoadipate transaminase		
+Aromatics degradation	1.13.11.1	catechol 1,2-dioxygenase		
+Aromatics degradation	1.3.7.8	benzoyl-CoA reductase subunit A; benzoyl-CoA reductase subunit B; benzoyl-CoA reductase subunit C; benzoyl-CoA reductase subunit D		
+Aromatics degradation	2.5.1.129	flavin prenyltransferase		
+Aromatics degradation	4.1.1.61	vanillate/4-hydroxybenzoate decarboxylase subunit C		
+As cycling	1.20.2.1	arsenite oxidase large subunit	aioA.hmm	800|full
+As cycling	1.20.4.1	arsenate reductase (glutaredoxin)	arsC_glut.hmm	80|full
+As cycling	1.20.4.4	arsenate reductase (thioredoxin)	arsC_thio.hmm	172|full
+As cycling	2.1.1.137	arsenite methyltransferase	arsM.hmm	200|full
+As cycling	N/A	dissimilatory arsenate reductase	arrA.hmm	175|full
+As cycling	N/A	arsenite oxidase (molybdopterin subunit)	arxA.hmm	600|full
+C1 metabolism	1.1.1.244	methanol dehydrogenase	TIGR04266.hmm	400.00|full
+C1 metabolism	1.1.1.284	S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase	TIGR02818.hmm	509.55|full
+C1 metabolism	1.1.1.306	S-(hydroxymethyl)mycothiol dehydrogenase	TIGR03451.hmm	512.15|full
+C1 metabolism	1.1.2.7	methanol dehydrogenase (cytochrome c) subunit 1	methanol_dehydrogenase_pqq_xoxF_mxaF.hmm	400|full
+C1 metabolism	1.17.1.9	formate dehydrogenase major subunit		
+C1 metabolism	1.17.98.3	formate dehydrogenase (coenzyme F420) alpha subunit; formate dehydrogenase (coenzyme F420) beta subunit		
+C1 metabolism	1.2.1.46	glutathione-independent formaldehyde dehydrogenase	TIGR02819.hmm	425.15|full
+C1 metabolism	1.2.5.3	aerobic carbon-monoxide dehydrogenase small subunit; aerobic carbon-monoxide dehydrogenase medium subunit; aerobic carbon-monoxide dehydrogenase large subunit		
+C1 metabolism	1.4.9.1	methylamine dehydrogenase light chain; methylamine dehydrogenase heavy chain	TIGR02659.hmm, TIGR02658.hmm	85.80|full, 90.50|full
+C1 metabolism	3.1.2.12	S-formylglutathione hydrolase	TIGR02821.hmm	131.95|full
+C1 metabolism	4.2.1.147	5,6,7,8-tetrahydromethanopterin hydro-lyase	TIGR03126.hmm	31.15|full
+C1 metabolism	K00124	formate dehydrogenase iron-sulfur subunit		
+Carbohydrate Metabolism	1.1.1.27	L-lactate dehydrogenase		
+Carbohydrate Metabolism	1.1.2.3	L-lactate dehydrogenase (cytochrome)		
+Carbohydrate Metabolism	2.1.2.1	glycine hydroxymethyltransferase		
+Carbohydrate Metabolism	2.2.1.1	transketolase		
+Carbohydrate Metabolism	2.2.1.2	transaldolase		
+Carbohydrate Metabolism	2.3.1.54	formate C-acetyltransferase		
+Carbohydrate Metabolism	2.3.3.1	citrate synthase		
+Carbohydrate Metabolism	2.3.3.13	2-isopropylmalate synthase		
+Carbohydrate Metabolism	2.4.1.21	starch synthase		
+Carbohydrate Metabolism	2.7.1.12	gluconokinase		
+Carbohydrate Metabolism	2.7.1.15	ribokinase		
+Carbohydrate Metabolism	2.7.1.56	1-phosphofructokinase		
+Carbohydrate Metabolism	2.7.1.6	galactokinase		
+Carbohydrate Metabolism	2.7.2.15	propionate kinase		
+Carbohydrate Metabolism	2.7.2.7	butyrate kinase		
+Carbohydrate Metabolism	2.8.3.5	3-oxoacid CoA-transferase		
+Carbohydrate Metabolism	3.2.1.15	polygalacturonase		
+Carbohydrate Metabolism	3.2.1.20	alpha-glucosidase		
+Carbohydrate Metabolism	3.2.1.23	beta-galactosidase		
+Carbohydrate Metabolism	3.2.1.31	beta-glucuronidase		
+Carbohydrate Metabolism	3.2.1.52	beta-N-acetylhexosaminidase		
+Carbohydrate Metabolism	3.2.1.67	galacturan 1,4-alpha-galacturonidase		
+Carbohydrate Metabolism	3.2.1.91	cellulose 1,4-beta-cellobiosidase		
+Carbohydrate Metabolism	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase		
+Carbohydrate Metabolism	4.1.1.15	glutamate decarboxylase		
+Carbohydrate Metabolism	4.1.1.41	methylmalonyl-CoA decarboxylase subunit alpha		
+Carbohydrate Metabolism	4.1.2.14	2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase		
+Carbohydrate Metabolism	4.2.1.12	phosphogluconate dehydratase		
+Carbohydrate Metabolism	4.2.2.2	pectate lyase		
+Carbohydrate Metabolism	5.3.1.12	glucuronate isomerase		
+Carbohydrate Metabolism	5.3.1.25	L-fucose/D-arabinose isomerase		
+Carbohydrate Metabolism	5.3.1.4	L-arabinose isomerase		
+Carbohydrate Metabolism	5.3.1.5	xylose isomerase		
+Carbohydrate Metabolism	5.3.1.8	mannose-6-phosphate isomerase		
+Carbohydrate Metabolism	6.3.1.2	glutamine synthetase		
+Carbon fixation	1.2.1.75	malonyl-CoA reductase / 3-hydroxypropionate dehydrogenase (NADP+)		
+Carbon fixation	1.2.7.4	anaerobic carbon-monoxide dehydrogenase catalytic subunit		
+Carbon fixation	1.3.1.84	acrylyl-CoA reductase (NADPH) / 3-hydroxypropionyl-CoA dehydratase / 3-hydroxypropionyl-CoA synthetase		
+Carbon fixation	2.1.1.245	acetyl-CoA decarbonylase/synthase, CODH/ACS complex subunit delta; acetyl-CoA decarbonylase/synthase, CODH/ACS complex subunit gamma		
+Carbon fixation	2.3.3.8	ATP-citrate lyase alpha-subunit; ATP-citrate lyase beta-subunit	acetate_citrate_lyase_aclA.hmm, acetate_citrate_lyase_aclB.hmm	215|full, 177|full
+Carbon fixation	4.1.1.39	ribulose-bisphosphate carboxylase large chain	rubisco_form_I.hmm, rubisco_form_II.hmm	500|full, 500|full
+Carbon fixation	6.2.1.40	4-hydroxybutyrate---CoA ligase (AMP-forming)		
+Chlorite reduction	1.13.11.49	chlorite dismutase	PF06778.hmm	65|full
+Complex carbon degradation	3.2.1.1	alpha-amylase; maltose alpha-D-glucosyltransferase / alpha-amylase		
+Complex carbon degradation	3.2.1.14	chitinase; bifunctional chitinase/lysozyme		
+Complex carbon degradation	3.2.1.177	alpha-D-xyloside xylohydrolase		
+Complex carbon degradation	3.2.1.21	beta-glucosidase		
+Complex carbon degradation	3.2.1.23	beta-galactosidase; evolved beta-galactosidase subunit alpha		
+Complex carbon degradation	3.2.1.25	beta-mannosidase		
+Complex carbon degradation	3.2.1.3	glucoamylase		
+Complex carbon degradation	3.2.1.31	beta-glucuronidase		
+Complex carbon degradation	3.2.1.37	xylan 1,4-beta-xylosidase		
+Complex carbon degradation	3.2.1.4	endoglucanase		
+Complex carbon degradation	3.2.1.40	alpha-L-rhamnosidase		
+Complex carbon degradation	3.2.1.41	pullulanase		
+Complex carbon degradation	3.2.1.52	beta-N-acetylhexosaminidase; hexosaminidase		
+Complex carbon degradation	3.2.1.55	alpha-L-arabinofuranosidase; arabinoxylan arabinofuranohydrolase		
+Complex carbon degradation	3.2.1.68	isoamylase		
+Complex carbon degradation	3.2.1.78	mannan endo-1,4-beta-mannosidase		
+Complex carbon degradation	3.2.1.91	cellulose 1,4-beta-cellobiosidase		
+Energy Metabolism	1.2.99.2	anaerobic carbon-monoxide dehydrogenase catalytic subunit		
+Energy Metabolism	1.4.1.13	glutamate synthase (NADPH) large chain; glutamate synthase (NADPH) small chain		
+Energy Metabolism	2.1.2.1	glycine hydroxymethyltransferase		
+Energy Metabolism	2.2.1.1	transketolase		
+Energy Metabolism	2.3.1.30	serine O-acetyltransferase		
+Energy Metabolism	2.5.1.47	cysteine synthase		
+Energy Metabolism	2.5.1.48	cystathionine gamma-synthase		
+Energy Metabolism	2.7.2.1	acetate kinase		
+Energy Metabolism	2.7.7.4	sulfate adenylyltransferase subunit 2		
+Energy Metabolism	3.5.1.1	L-asparaginase		
+Energy Metabolism	3.5.1.2	glutaminase		
+Energy Metabolism	6.3.1.1	aspartate--ammonia ligase		
+Energy Metabolism	6.3.1.2	glutamine synthetase		
+Energy Metabolism	6.3.4.3	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase		
+Ethanol fermentation	1.1.1.1	alcohol dehydrogenase; acetaldehyde dehydrogenase / alcohol dehydrogenase		
+Ethanol fermentation	1.1.1.2	alcohol dehydrogenase (NADP+)		
+Ethanol fermentation	1.1.2.8	alcohol dehydrogenase (cytochrome c)		
+Ethanol fermentation	1.1.5.5	alcohol dehydrogenase (quinone), dehydrogenase subunit		
+Ethanol fermentation	1.2.1.5	aldehyde dehydrogenase (NAD(P)+)		
+Ethanol fermentation	K00138	aldehyde dehydrogenase		
+Ethanol fermentation	K04022	alcohol dehydrogenase		
+Fatty acid degradation	1.3.8.5	short-chain 2-methylacyl-CoA dehydrogenase		
+Fatty acid degradation	1.3.8.7	acyl-CoA dehydrogenase		
+Fatty acid degradation	1.3.8.8	long-chain-acyl-CoA dehydrogenase		
+Fatty acid degradation	K06445	acyl-CoA dehydrogenase		
+Fatty acid degradation	K06446	acyl-CoA dehydrogenase		
+Fatty acid degradation	K09456	putative acyl-CoA dehydrogenase		
+Fatty acid degradation	K15980	acyl-CoA dehydrogenase family member 9		
+Fatty acid degradation	K18244	acyl-CoA dehydrogenase		
+Fermentation	1.1.1.1	alcohol dehydrogenase		
+Fermentation	1.1.1.27	L-lactate dehydrogenase		
+Fermentation	1.2.7.1	pyruvate ferredoxin oxidoreductase alpha subunit		
+Fermentation	2.3.1.54	formate C-acetyltransferase		
+Fermentation	2.3.1.8	phosphate acetyltransferase	TIGR00651.hmm	205.40|full
+Fermentation	2.7.2.1	acetate kinase	TIGR00016.hmm	146.10|full
+Fermentation	6.2.1.1	acetyl-CoA synthetase	TIGR02188.hmm	684.65|full
+Fermentation	6.2.1.13	acetate---CoA ligase (ADP-forming) subunit alpha	TIGR02717.hmm	463.00|full
+Glycan Biosynthesis and Metabolism	2.3.1.129	UDP-N-acetylglucosamine acyltransferase		
+Glycan Biosynthesis and Metabolism	2.7.8.13	phospho-N-acetylmuramoyl-pentapeptide-transferase		
+Glycan Biosynthesis and Metabolism	3.1.6.12	arylsulfatase B		
+Glycan Biosynthesis and Metabolism	3.1.6.14	N-acetylglucosamine-6-sulfatase		
+Glycan Biosynthesis and Metabolism	3.2.1.23	beta-galactosidase		
+Glycan Biosynthesis and Metabolism	3.2.1.24	alpha-mannosidase		
+Glycan Biosynthesis and Metabolism	3.2.1.25	beta-mannosidase		
+Glycan Biosynthesis and Metabolism	3.2.1.31	beta-glucuronidase		
+Glycan Biosynthesis and Metabolism	3.2.1.52	beta-N-acetylhexosaminidase		
+Glycan Biosynthesis and Metabolism	5.1.3.20	ADP-L-glycero-D-manno-heptose 6-epimerase		
+Glycan Biosynthesis and Metabolism	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase		
+Glycan Biosynthesis and Metabolism	6.3.2.4	D-alanine-D-alanine ligase		
+Glycan Biosynthesis and Metabolism	6.3.2.8	UDP-N-acetylmuramate--alanine ligase		
+Glycan Biosynthesis and Metabolism	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase		
+Halogenated compound utilization	1.21.4.5	tetrachlorohydroquinone reductive dehalogenase		
+Halogenated compound utilization	1.21.99.5	tetrachloroethene reductive dehalogenase		
+Halogenated compound utilization	3.8.1.2	2-haloacid dehalogenase		
+Halogenated compound utilization	K21566	3-chloro-4-hydroxyphenylacetate reductive dehalogenase		
+Hydrogenases	1.12.1.4	iron-hydrogenase subunit alpha, iron-hydrogenase subunit beta, iron-hydrogenase subunit gamma		
+Hydrogenases	1.12.2.1	[NiFe] hydrogenase large subunit, [NiFe] hydrogenase small subunit		
+Hydrogenases	1.12.7.2	ferredoxin hydrogenase		
+Hydrogenases	7.1.1.2	bidirectional [NiFe] hydrogenase diaphorase subunit; bidirectional [NiFe] hydrogenase diaphorase subunit; bidirectional [NiFe] hydrogenase diaphorase subunit		
+Hydrogenases	N/A	FeFe hydrogenase, H2-evolution/Electron-bifurcation	fefe-group-a13.hmm	733.8|full
+Hydrogenases	N/A	FeFe hydrogenase, H2-uptake	fefe-group-a2.hmm	815.2|full
+Hydrogenases	N/A	FeFe hydrogenase, H2-uptake/Electron-bifurcation	fefe-group-a4.hmm	599.05|full
+Hydrogenases	N/A	FeFe hydrogenase, H2-evolution	fefe-group-b.hmm	440.3|full
+Hydrogenases	N/A	FeFe hydrogenase, H2-sensing	fefe-group-c1.hmm	398.25|full
+Hydrogenases	N/A	FeFe hydrogenase, H2-sensing	fefe-group-c2.hmm	483.75|full
+Hydrogenases	N/A	FeFe hydrogenase, H2-sensing	fefe-group-c3.hmm	427.05|full
+Hydrogenases	N/A	Fe hydrogenase, Bidirectional	fe.hmm	621|full
+Hydrogenases	N/A	Ni-Fe Hydrogenase, H2-uptake	nife-group-1.hmm	447.25|full
+Hydrogenases	N/A	Ni-Fe Hydrogenase, H2-uptake	nife-group-2ade.hmm	611.8|full
+Hydrogenases	N/A	Ni-Fe Hydrogenase, H2-uptake	nife-group-2bc.hmm	600.3|full
+Hydrogenases	N/A	Ni-Fe Hydrogenase, Bidirectional	nife-group-3abd.hmm	520.25|full
+Hydrogenases	N/A	Ni-Fe Hydrogenase, Electron-bifurcation	nife-group-3c.hmm	620.65|full
+Hydrogenases	N/A	Ni-Fe Hydrogenase, H2-evolving	nife-group-4a-g.hmm	458|full
+Hydrogenases	N/A	Ni-Fe Hydrogenase, H2-uptake	nife-group-4hi.hmm	447.8|full
+Iron cycling	N/A	Iron oxidation	Cyc1.hmm	98|full
+Iron cycling	N/A	Iron oxidation	Cyc2_repCluster1.hmm	31.5|full
+Iron cycling	N/A	Iron oxidation	Cyc2_repCluster2.hmm	27.8|full
+Iron cycling	N/A	Iron oxidation	Cyc2_repCluster3.hmm	27.3|full
+Iron cycling	N/A	Iron oxidation	FoxA.hmm	128|full
+Iron cycling	N/A	Iron oxidation	FoxB.hmm	66|full
+Iron cycling	N/A	Iron oxidation	FoxC.hmm	62|full
+Iron cycling	N/A	Iron oxidation	FoxE.hmm	37|full
+Iron cycling	N/A	Iron oxidation	FoxY.hmm	124|full
+Iron cycling	N/A	Iron oxidation	FoxZ.hmm	150|full
+Iron cycling	N/A	Iron oxidation	MtoA.hmm	140|full
+Iron cycling	N/A	Iron oxidation	sulfocyanin.hmm	45.4|full
+Iron cycling	N/A	Metal (Iron/Manganese) reduction	MtrA.hmm	140|full
+Iron cycling	N/A	Metal (Iron/Manganese) reduction	MtrB_TIGR03509.hmm	240.05|full
+Iron cycling	N/A	Metal (Iron/Manganese) reduction	MtrC_TIGR03507.hmm	209.3|full
+Iron cycling	N/A	Iron reduction	CymA.hmm	237|full
+Iron cycling	N/A	Iron reduction	OmcF.hmm	83.7|full
+Iron cycling	N/A	Iron reduction	OmcS.hmm	78.2|full
+Iron cycling	N/A	Iron reduction	OmcZ.hmm	76.9|full
+Iron cycling	N/A	Iron reduction	FmnA.hmm	60|full
+Iron cycling	N/A	Iron reduction	DmkA.hmm	17|full
+Iron cycling	N/A	Iron reduction	FmnB.hmm	33|full
+Iron cycling	N/A	Iron reduction	PplA.hmm	32|full
+Iron cycling	N/A	Iron reduction	Ndh2.hmm	40|full
+Iron cycling	N/A	Iron reduction	EetA.hmm	20|full
+Iron cycling	N/A	Iron reduction	EetB.hmm	30|full
+Iron cycling	N/A	Iron reduction	DmkB.hmm	25|full
+Iron cycling	N/A	Iron reduction	DFE_0448.hmm	27.5|full
+Iron cycling	N/A	Iron reduction	DFE_0449.hmm	30|full
+Iron cycling	N/A	Iron reduction	DFE_0450.hmm	30|full
+Iron cycling	N/A	Iron reduction	DFE_0451.hmm	64|full
+Iron cycling	N/A	Iron reduction	DFE_0461.hmm	40|full
+Iron cycling	N/A	Iron reduction	DFE_0462.hmm	40|full
+Iron cycling	N/A	Iron reduction	DFE_0463.hmm	100|full
+Iron cycling	N/A	Iron reduction	DFE_0464.hmm	25|full
+Iron cycling	N/A	Iron reduction	DFE_0465.hmm	20|full
+Lipid Metabolism	2.3.1.16	acetyl-CoA acyltransferase		
+Lipid Metabolism	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase III		
+Lipid Metabolism	2.7.1.30	glycerol kinase		
+Lipid Metabolism	2.8.3.5	3-oxoacid CoA-transferase		
+Lipid Metabolism	3.2.1.23	beta-galactosidase		
+Lipid Metabolism	3.5.1.24	choloylglycine hydrolase		
+Manganese cycling	1.16.3.3	spore coat protein A, manganese oxidase; manganese oxidase		
+Metabolism of Cofactors and Vitamins	1.1.1.86	ketol-acid reductoisomerase		
+Metabolism of Cofactors and Vitamins	2.1.1.64	2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase		
+Metabolism of Cofactors and Vitamins	2.5.1.72	quinolinate synthase		
+Metabolism of Cofactors and Vitamins	2.5.1.9	riboflavin synthase		
+Metabolism of Cofactors and Vitamins	2.6.1.42	branched-chain amino acid aminotransferase		
+Metabolism of Cofactors and Vitamins	2.7.1.35	pyridoxine kinase		
+Metabolism of Cofactors and Vitamins	2.7.1.89	thiamine kinase		
+Metabolism of Cofactors and Vitamins	2.7.8.26	adenosylcobinamide-GDP ribazoletransferase		
+Metabolism of Cofactors and Vitamins	2.8.1.6	biotin synthase		
+Metabolism of Cofactors and Vitamins	3.2.1.31	beta-glucuronidase		
+Metabolism of Cofactors and Vitamins	4.2.1.9	dihydroxy-acid dehydratase		
+Metabolism of Cofactors and Vitamins	4.2.3.1	threonine synthase		
+Metabolism of Cofactors and Vitamins	4.99.1.1	protoporphyrin/coproporphyrin ferrochelatase		
+Metabolism of Cofactors and Vitamins	4.99.1.3	sirohydrochlorin cobaltochelatase		
+Metabolism of Cofactors and Vitamins	6.3.2.1	pantoate--beta-alanine ligase		
+Metabolism of Cofactors and Vitamins	6.3.2.17	folylpolyglutamate synthase		
+Metabolism of Cofactors and Vitamins	6.3.4.3	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase		
+Metabolism of Other Amino Acids	1.4.1.1	alanine dehydrogenase		
+Metabolism of Other Amino Acids	1.8.1.9	thioredoxin reductase (NADPH)		
+Metabolism of Other Amino Acids	2.1.2.1	glycine hydroxymethyltransferase		
+Metabolism of Other Amino Acids	2.5.1.16	spermidine synthase		
+Metabolism of Other Amino Acids	2.5.1.48	cystathionine gamma-synthase		
+Metabolism of Other Amino Acids	2.7.2.1	acetate kinase		
+Metabolism of Other Amino Acids	2.7.7.4	sulfate adenylyltransferase subunit 2		
+Metabolism of Other Amino Acids	2.9.1.1	L-seryl-tRNA(Ser) seleniumtransferase		
+Metabolism of Other Amino Acids	3.5.1.1	L-asparaginase		
+Metabolism of Other Amino Acids	3.5.1.2	glutaminase		
+Metabolism of Other Amino Acids	4.1.1.15	glutamate decarboxylase		
+Metabolism of Other Amino Acids	4.1.1.17	ornithine decarboxylase		
+Metabolism of Other Amino Acids	4.4.1.16	selenocysteine lyase		
+Metabolism of Other Amino Acids	5.1.1.1	alanine racemase		
+Metabolism of Other Amino Acids	5.1.1.3	glutamate racemase		
+Metabolism of Other Amino Acids	6.1.1.10	methionyl-tRNA synthetase		
+Metabolism of Other Amino Acids	6.3.1.1	aspartate--ammonia ligase		
+Metabolism of Other Amino Acids	6.3.1.8	glutathionylspermidine synthase		
+Metabolism of Other Amino Acids	6.3.2.1	pantoate--beta-alanine ligase		
+Metabolism of Other Amino Acids	6.3.2.3	glutathione synthase		
+Metabolism of Other Amino Acids	6.3.2.4	D-alanine-D-alanine ligase		
+Metabolism of Other Amino Acids	6.3.2.8	UDP-N-acetylmuramate--alanine ligase		
+Metabolism of Other Amino Acids	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase		
+Metabolism of Terpenoids and Polyketides	1.17.1.2	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase		
+Metabolism of Terpenoids and Polyketides	2.2.1.1	transketolase		
+Metabolism of Terpenoids and Polyketides	2.3.1.16	acetyl-CoA acyltransferase		
+Metabolism of Terpenoids and Polyketides	2.5.1.10	farnesyl diphosphate synthase		
+Metabolism of Terpenoids and Polyketides	2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase		
+Methane metabolism	1.14.18.3	methane/ammonia monooxygenase subunit A	pmoA.hmm	160.90|full
+Methane metabolism	2.8.4.1	methyl-coenzyme M reductase alpha subunit; methyl-coenzyme M reductase beta subunit	TIGR03256.hmm, TIGR03257.hmm	314.45|full, 173.35|full
+Methane metabolism	K03421	methyl-coenzyme M reductase subunit C	TIGR03259.hmm	171.60|full
+Methane metabolism	K10945	methane/ammonia monooxygenase subunit B	pmoB.hmm	156.70|full
+Methane metabolism	K10946	methane/ammonia monooxygenase subunit C	pmoC.hmm	136.27|full
+Methane metabolism	K16160	methane monooxygenase regulatory protein B	PF02406.hmm	10|full
+Methane metabolism	K16162	methane monooxygenase component D	TIGR04550.hmm	28.00|full
+Nitrile hydration	4.2.1.84	nitrile hydratase subunit alpha; nitrile hydratase subunit beta	TIGR01323.hmm, TIGR03888.hmm	239.05|full, 136.35|full
+Nitrogen cycling	1.14.99.39	methane/ammonia monooxygenase subunit A	amoA.hmm	160.90|full
+Nitrogen cycling	1.18.6.1	nitrogenase delta subunit; nitrogenase molybdenum-iron protein alpha chain; nitrogenase molybdenum-iron protein beta chain	TIGR02929.hmm, TIGR01282.hmm, TIGR01286.hmm	124.50|full, 503.05|full, 414.50|full
+Nitrogen cycling	1.18.6.2	vanadium-dependent nitrogenase alpha chain; vanadium-dependent nitrogenase beta chain; vanadium nitrogenase delta subunit	TIGR01860.hmm, TIGR02932.hmm, TIGR02930.hmm	822.85|full, 821.85|full, 122.35|full
+Nitrogen cycling	1.7.1.15	nitrite reductase (NADH) large subunit; nitrite reductase (NADH) small subunit	TIGR02374.hmm, TIGR02378.hmm	442.75|full, 69.85|full
+Nitrogen cycling	1.7.2.1	nitrite reductase (NO-forming); nitrite reductase (NO-forming) / hydroxylamine reductase	TIGR02376.hmm, nitrite_reductase_nirS.hmm	169.10|full, 200|full
+Nitrogen cycling	1.7.2.2	nitrite reductase (cytochrome c-552)	PF02335.hmm	57|full
+Nitrogen cycling	1.7.2.4	nitrous-oxide reductase	TIGR04246.hmm	550.00|full
+Nitrogen cycling	1.7.2.5	nitric oxide reductase subunit B	nitric_oxide_reductase_norB.hmm	79|full
+Nitrogen cycling	1.7.2.7	hydrazine synthase subunit	hydrazine_synthase_hzsA.hmm	466|full
+Nitrogen cycling	1.7.2.8	hydrazine dehydrogenase	hydrazine_oxidase_hzoA.hmm	325|full
+Nitrogen cycling	1.7.5.1	nitrate reductase / nitrite oxidoreductase, alpha subunit; nitrate reductase / nitrite oxidoreductase, beta subunit	nitrite_oxidoreductase_nxrA.hmm, nitrite_oxidoreductase_nxrB.hmm	370|full, 252|full
+Nitrogen cycling	1.7.5.1	nitrate reductase / nitrite oxidoreductase, alpha subunit; nitrate reductase / nitrite oxidoreductase, beta subunit	TIGR01580.hmm, TIGR01660.hmm	600.95|full, 348.00|full
+Nitrogen cycling	1.9.6.1	nitrate reductase (cytochrome)	TIGR01706.hmm	472.50|full
+Nitrogen cycling	K02305	nitric oxide reductase subunit C	nitric_oxide_reductase_norC.hmm	50|full
+Nitrogen cycling	K02568	nitrate reductase (cytochrome), electron transfer subunit	PF03892.hmm	23.9|full
+Nitrogen cycling	K02588	nitrogenase iron protein NifH	TIGR01287.hmm	261.05|full
+Nitrogen cycling	K04015	protein NrfD	TIGR03148.hmm	300.15|full
+Nitrogen cycling	K07218	nitrous oxidase accessory protein	PF05048.hmm	290|full
+Nitrogen cycling	K10945	methane/ammonia monooxygenase subunit B	amoB.hmm	156.70|full
+Nitrogen cycling	K10946	methane/ammonia monooxygenase subunit C	amoC.hmm	136.27|full
+Nitrogen cycling	K15876	cytochrome c nitrite reductase small subunit	TIGR03153.hmm	75.30|full
+Nitrogen cycling	N/A	nitrogenase iron-iron protein, alpha subunit	TIGR01861.hmm	873.55|full
+Nitrogen cycling	N/A	nitrogenase iron-iron protein, beta subunit	TIGR02931.hmm	853.75|full
+Nitrogen cycling	N/A	nitrite reductase (Octaheme c-type cytochrome Shewanella-type)	TIGR04315.hmm	325.00|full
+Nucleotide Metabolism	1.1.1.205	IMP dehydrogenase		
+Nucleotide Metabolism	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)		
+Nucleotide Metabolism	1.8.1.9	thioredoxin reductase (NADPH)		
+Nucleotide Metabolism	2.4.2.1	purine-nucleoside phosphorylase		
+Nucleotide Metabolism	2.4.2.3	uridine phosphorylase		
+Nucleotide Metabolism	2.4.2.4	thymidine phosphorylase		
+Nucleotide Metabolism	2.7.4.14	UMP-CMP kinase		
+Nucleotide Metabolism	3.5.4.1	cytosine/creatinine deaminase		
+Nucleotide Metabolism	3.6.1.13	ADP-ribose diphosphatase		
+Nucleotide Metabolism	4.1.1.23	orotidine-5'-phosphate decarboxylase		
+Nucleotide Metabolism	6.3.4.13	phosphoribosylamine---glycine ligase		
+Nucleotide Metabolism	6.3.4.4	adenylosuccinate synthase		
+Nucleotide Metabolism	6.3.5.5	carbamoyl-phosphate synthase small subunit		
+Oxidative phosphorylation	7.1.1.2	NADH-quinone oxidoreductase subunit A; NADH-quinone oxidoreductase subunit B; NADH-quinone oxidoreductase subunit C		
+Oxidative phosphorylation	7.1.1.2	NAD(P)H-quinone oxidoreductase subunit 1; NAD(P)H-quinone oxidoreductase subunit 2; NAD(P)H-quinone oxidoreductase subunit 3		
+Oxidative phosphorylation	7.1.1.8	ubiquinol-cytochrome c reductase iron-sulfur subunit		
+Oxidative phosphorylation	7.1.2.2	V/A-type H+/Na+-transporting ATPase subunit A		
+Oxidative phosphorylation	7.1.2.2	F-type H+/Na+-transporting ATPase subunit alpha, F-type H+/Na+-transporting ATPase subunit beta		
+Oxidative phosphorylation	K00241	succinate dehydrogenase cytochrome b subunit		
+Oxidative phosphorylation	K00242	succinate dehydrogenase membrane anchor subunit		
+Oxidative phosphorylation	K00410	ubiquinol-cytochrome c reductase cytochrome b/c1 subunit		
+Oxidative phosphorylation	K00412	ubiquinol-cytochrome c reductase cytochrome b subunit		
+Oxidative phosphorylation	K02118	V/A-type H+/Na+-transporting ATPase subunit B		
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	7.1.1.3	cytochrome o ubiquinol oxidase subunit I; cytochrome o ubiquinol oxidase subunit II	TIGR01433.hmm	218.75|full
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	7.1.1.5	cytochrome aa3-600 menaquinol oxidase subunit I; cytochrome aa3-600 menaquinol oxidase subunit II	TIGR02882.hmm, TIGR01432.hmm	954.70|full, 204.55|full
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	7.1.1.7	cytochrome bd ubiquinol oxidase subunit I; cytochrome bd ubiquinol oxidase subunit II	PF01654.hmm, TIGR00203.hmm	118|full, 88.55|full
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	7.1.1.9	cytochrome c oxidase subunit I; cytochrome c oxidase subunit II; cytochrome c oxidase cbb3-type subunit I	TIGR02891.hmm, TIGR02866.hmm, TIGR00780.hmm	617.40|full, 144.30|full, 168.15|full
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	K00405	cytochrome c oxidase cbb3-type subunit II	TIGR00781.hmm	62.85|full
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	K00406	cytochrome c oxidase cbb3-type subunit III	TIGR00782.hmm	54.05|full
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	K02299	cytochrome o ubiquinol oxidase subunit III		
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	K02300	cytochrome o ubiquinol oxidase subunit IV	TIGR02847.hmm	64.95|full
+Perchlorate reduction	N/A	perchlorate reductase, subunit alpha	TIGR03479.hmm	559.05|full
+Perchlorate reduction	N/A	perchlorate reductase, subunit beta	TIGR03478.hmm	319.40|full
+Selenate reduction	1.97.1.9	putative selenate reductase	TIGR03315.hmm	354.45|full
+Selenate reduction	K12528	putative selenate reductase molybdopterin-binding subunit	TIGR03313.hmm	526.50|full
+Selenate reduction	K12529	putative selenate reductase FAD-binding subunit	TIGR03312.hmm	87.85|full
+Sulfur cycling	1.13.11.18	sulfur dioxygenase	sulfur_dioxygenase_sdo.hmm	300|full
+Sulfur cycling	1.13.11.55	sulfur oxygenase/reductase	PF07682.hmm	120|full
+Sulfur cycling	1.8.1.22	dissimilatory sulfite reductase alpha subunit; dissimilatory sulfite reductase beta subunit	dsrA.hmm, dsrB.hmm	200.00|full, 204.00|full
+Sulfur cycling	1.8.2.3	sulfide dehydrogenase [flavocytochrome c] flavoprotein chain	PF09242.hmm	266|full
+Sulfur cycling	1.8.5.4	sulfide:quinone oxidoreductase	sulfide_quinone_oxidoreductase_sqr.hmm	300|full
+Sulfur cycling	1.8.5.5	thiosulfate reductase / polysulfide reductase chain A	thiosulfate_reductase_phsA.hmm	323|full
+Sulfur cycling	1.8.99.2	adenylylsulfate reductase, subunit A	aprA.hmm	641.75|full
+Sulfur cycling	2.7.7.4	sulfate adenylyltransferase	TIGR00339.hmm	181.80|full
+Sulfur cycling	3.1.6.20	S-sulfosulfanyl-L-cysteine sulfohydrolase	soxB.hmm	550.00|full
+Sulfur cycling	K00385	anaerobic sulfite reductase subunit C	asrC.hmm	324.10|full
+Sulfur cycling	K16950	anaerobic sulfite reductase subunit A	asrA.hmm	323.15|full
+Sulfur cycling	K16951	anaerobic sulfite reductase subunit B	asrB.hmm	288.60|full
+Sulfur cycling	K17219	sulfur reductase molybdopterin subunit	K17219.hmm	1889.97|full
+Sulfur cycling	K17220	sulfur reductase FeS subunit	K17220.hmm	486.50|full
+Sulfur cycling	K17221	sulfur reductase membrane anchor	K17221.hmm	721.30|full
+Sulfur cycling	K17225	sulfane dehydrogenase subunit SoxC	soxC.hmm	320.00|full
+Sulfur cycling	K17226	sulfur-oxidizing protein SoxY	soxY.hmm	125.00|full
+Sulfur cycling	N/A	dissimilatory sulfite reductase delta subunit	dsrD.hmm	32.80|full
+Sulfur cycling enzymes (detailed)	1.13.11.18	sulfur dioxygenase	sulfur_dioxygenase_sdo.hmm	120|full
+Sulfur cycling enzymes (detailed)	1.13.11.55	sulfur oxygenase/reductase	PF07682.hmm	300|full
+Sulfur cycling enzymes (detailed)	1.14.11.17	taurine dioxygenase		
+Sulfur cycling enzymes (detailed)	1.14.13.111	methanesulfonate monooxygenase subunit alpha		
+Sulfur cycling enzymes (detailed)	1.14.13.131	dimethyl-sulfide monooxygenase		
+Sulfur cycling enzymes (detailed)	1.14.14.34	alkanesulfonate monooxygenase	PF00296.hmm	264.3|full
+Sulfur cycling enzymes (detailed)	1.14.14.35	dimethylsulfone monooxygenase		
+Sulfur cycling enzymes (detailed)	1.14.14.5	alkanesulfonate monooxygenase		
+Sulfur cycling enzymes (detailed)	1.8.1.2	sulfite reductase (NADPH) flavoprotein alpha-component		
+Sulfur cycling enzymes (detailed)	1.8.1.22	dissimilatory sulfite reductase alpha subunit; dissimilatory sulfite reductase beta subunit	dsrA.hmm, dsrB.hmm	200.00|full, 204.00|full
+Sulfur cycling enzymes (detailed)	1.8.2.3	sulfide dehydrogenase [flavocytochrome c] flavoprotein chain	PF09242.hmm	266|full
+Sulfur cycling enzymes (detailed)	1.8.2.4	dimethylsulfide dehydrogenase subunit alpha		
+Sulfur cycling enzymes (detailed)	1.8.2.6	S-disulfanyl-L-cysteine oxidoreductase SoxD	soxD.hmm	90.00|full
+Sulfur cycling enzymes (detailed)	1.8.4.14	L-methionine (R)-S-oxide reductase		
+Sulfur cycling enzymes (detailed)	1.8.4.8	phosphoadenosine phosphosulfate reductase		
+Sulfur cycling enzymes (detailed)	1.8.5.10	[DsrC]-trisulfide reductase subunit K	dsrK.hmm	460.00|full
+Sulfur cycling enzymes (detailed)	1.8.5.10	[DsrC]-trisulfide reductase subunit M	dsrM.hmm	172.0|full
+Sulfur cycling enzymes (detailed)	1.8.5.3	anaerobic dimethyl sulfoxide reductase subunit A		
+Sulfur cycling enzymes (detailed)	1.8.5.4	sulfide:quinone oxidoreductase	sulfide_quinone_oxidoreductase_sqr.hmm	300|full
+Sulfur cycling enzymes (detailed)	1.8.5.5	thiosulfate reductase / polysulfide reductase chain A	thiosulfate_reductase_phsA.hmm	323|full
+Sulfur cycling enzymes (detailed)	1.8.99.2	adenylylsulfate reductase, subunit A; adenylylsulfate reductase, subunit B	aprA.hmm, aprB.hmm	641.75|full, 135.65|full
+Sulfur cycling enzymes (detailed)	2.1.1.13	5-methyltetrahydrofolate--homocysteine methyltransferase		
+Sulfur cycling enzymes (detailed)	2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase		
+Sulfur cycling enzymes (detailed)	2.1.1.334	methanethiol S-methyltransferase		
+Sulfur cycling enzymes (detailed)	2.1.1.37	DNA (cytosine-5)-methyltransferase 1		
+Sulfur cycling enzymes (detailed)	2.5.1.144	S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent)		
+Sulfur cycling enzymes (detailed)	2.5.1.47	cysteine synthase		
+Sulfur cycling enzymes (detailed)	2.5.1.48	cystathionine gamma-synthase		
+Sulfur cycling enzymes (detailed)	2.5.1.49	O-acetylhomoserine (thiol)-lyase		
+Sulfur cycling enzymes (detailed)	2.5.1.6	S-adenosylmethionine synthetase		
+Sulfur cycling enzymes (detailed)	2.6.1.1	aspartate aminotransferase		
+Sulfur cycling enzymes (detailed)	2.7.1.25	adenylylsulfate kinase		
+Sulfur cycling enzymes (detailed)	2.7.7.4	sulfate adenylyltransferase	TIGR00339.hmm	181.80|full
+Sulfur cycling enzymes (detailed)	2.7.7.4	sulfate adenylyltransferase subunit 1; sulfate adenylyltransferase subunit 2; bifunctional enzyme CysN/CysC		
+Sulfur cycling enzymes (detailed)	2.8.5.2	L-cysteine S-thiosulfotransferase	soxA.hmm	110.00|full
+Sulfur cycling enzymes (detailed)	2.8.5.2	L-cysteine S-thiosulfotransferase	soxX.hmm	61.00|full
+Sulfur cycling enzymes (detailed)	3.1.6.20	S-sulfosulfanyl-L-cysteine sulfohydrolase	soxB.hmm	550.00|full
+Sulfur cycling enzymes (detailed)	3.13.2.1	adenosylhomocysteinase		
+Sulfur cycling enzymes (detailed)	3.2.2.9	adenosylhomocysteine nucleosidase		
+Sulfur cycling enzymes (detailed)	4.4.1.11	methionine-gamma-lyase	PF01053.hmm	432.5|full
+Sulfur cycling enzymes (detailed)	4.4.1.13	cysteine-S-conjugate beta-lyase		
+Sulfur cycling enzymes (detailed)	4.4.1.15	D-cysteine desulfhydrase		
+Sulfur cycling enzymes (detailed)	4.4.1.21	S-ribosylhomocysteine lyase		
+Sulfur cycling enzymes (detailed)	K00385	anaerobic sulfite reductase subunit C	asrC.hmm	324.10|full
+Sulfur cycling enzymes (detailed)	K07235	tRNA 2-thiouridine synthesizing protein D		
+Sulfur cycling enzymes (detailed)	K07236	tRNA 2-thiouridine synthesizing protein C		
+Sulfur cycling enzymes (detailed)	K07237	tRNA 2-thiouridine synthesizing protein B		
+Sulfur cycling enzymes (detailed)	K16950	anaerobic sulfite reductase subunit A	asrA.hmm	323.15|full
+Sulfur cycling enzymes (detailed)	K16951	anaerobic sulfite reductase subunit B	asrB.hmm	288.60|full
+Sulfur cycling enzymes (detailed)	K17219	sulfur reductase molybdopterin subunit		
+Sulfur cycling enzymes (detailed)	K17220	sulfur reductase FeS subunit		
+Sulfur cycling enzymes (detailed)	K17221	sulfur reductase membrane anchor		
+Sulfur cycling enzymes (detailed)	K17225	sulfane dehydrogenase subunit SoxC	soxC.hmm	320.00|full
+Sulfur cycling enzymes (detailed)	K17226	sulfur-oxidizing protein SoxY	soxY.hmm	125.00|full
+Sulfur cycling enzymes (detailed)	K17227	sulfur-oxidizing protein SoxZ	soxZ.hmm	76.00|full
+Sulfur cycling enzymes (detailed)	K23077	dissimilatory sulfite reductase related protein	dsrC.hmm	52.85|full
+Sulfur cycling enzymes (detailed)	K27189	[DsrC]-trisulfide reductase subunit J	dsrJ.hmm	95.00|full
+Sulfur cycling enzymes (detailed)	K27190	[DsrC]-trisulfide reductase subunit O	dsrO.hmm	250.00|full
+Sulfur cycling enzymes (detailed)	K27191	dissimilatory sulfite reductase, subunit P	dsrP.hmm	412.80|full
+Sulfur cycling enzymes (detailed)	N/A	dissimilatory sulfite reductase delta subunit	dsrD.hmm	32.80|full
+Sulfur cycling enzymes (detailed)	N/A	dissimilatory sulfite reductase, subunit E	dsrE.hmm	160.00|full
+Sulfur cycling enzymes (detailed)	N/A	dissimilatory sulfite reductase, subunit F	dsrF.hmm	155.00|full
+Sulfur cycling enzymes (detailed)	N/A	dissimilatory sulfite reductase, subunit H	dsrH.hmm	97.00|full
+Sulfur cycling enzymes (detailed)	N/A	dissimilatory sulfite reductase, subunit R	dsrR.hmm	80.00|full
+Sulfur cycling enzymes (detailed)	N/A	dissimilatory sulfite reductase, subunit S	dsrS.hmm	115.70|full
+Sulfur cycling enzymes (detailed)	N/A	dissimilatory sulfite reductase, subunit T	dsrT.hmm	90.00|full
+Sulfur cycling enzymes (detailed)	N/A	soxYZ_like_carrier	soxYZ_like_carrier.hmm	120.00|full
+Sulfur cycling enzymes (detailed)	N/A	DMS oxygenase alpha subunit	PF06099.hmm	50.4|full
+Sulfur cycling enzymes (detailed)	N/A	DMS oxygenase beta subunit	PF02332.hmm	160.4|full
+Sulfur cycling enzymes (detailed)	N/A	DMS oxygenase alpha subunit	PF06099.hmm	50.4|full
+Sulfur cycling enzymes (detailed)	N/A	DMS oxygenase beta subunit	PF02332.hmm	160.4|full
+Sulfur cycling enzymes (detailed)	N/A	dimethyl-sulfide monooxygenase subunit B	PF01613.hmm	50.1|full
+Thermophilic specific	5.6.2.2	reverse gyrase	TIGR01054.hmm	469.70|full
+Translation	2.9.1.1	L-seryl-tRNA(Ser) seleniumtransferase		
+Translation	6.1.1.10	methionyl-tRNA synthetase		
+Translation	6.1.1.11	seryl-tRNA synthetase		
+Urea utilization	3.5.1.5	urease subunit alpha; urease subunit beta; urease subunit gamma	TIGR01792.hmm, TIGR00192.hmm, TIGR00193.hmm	212.95|full, 40.65|full, 31.45|full

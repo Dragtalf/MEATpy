@@ -1,0 +1,49 @@
+AG-oligosaccharide degradation - 1		
+M:arabinogalactan -> AG-oligosaccharide		β-1,4-endogalactanase;L-rhamnose-α-1,4-D-glucuronate lyase;L-Rhα-α-1,4-GlcA α-L-rhamnohydrolase
+N:AG-oligosaccharide -> D-galactose		β-galactosidase
+M+N		β-1,4-endogalactanase;L-rhamnose-α-1,4-D-glucuronate lyase;L-Rhα-α-1,4-GlcA α-L-rhamnohydrolase|β-galactosidase
+		
+AG-oligosaccharide degradation - 2		
+M:arabinogalactan -> AG-oligosaccharide		β-1,4-endogalactanase;L-rhamnose-α-1,4-D-glucuronate lyase;L-Rhα-α-1,4-GlcA α-L-rhamnohydrolase
+O:AG-oligosaccharide -> L-arabinopyranose		L-arabinopyranose
+M+O		β-1,4-endogalactanase;L-rhamnose-α-1,4-D-glucuronate lyase;L-Rhα-α-1,4-GlcA α-L-rhamnohydrolase|L-arabinopyranose
+		
+alginate oligosaccharide degradation		
+P:alginate -> alginate oligosaccharide		alginate lyase;M-specific alginate lyase
+Q:alginate oligosaccharide -> alginate monosaccharide		oligoalginate lyase
+P+Q		alginate lyase;M-specific alginate lyase|oligoalginate lyase
+		
+cellobiose		
+R:cellulose chain -> cellobiose		α-1,3-glucanase;exo-β-1,3-glucanase;exo-β-1,6-glucanase;β-1,3-glucanase
+S:cellobiose -> glucose		cellobiose phosphorylase;cellobiohydrolase
+R+S		α-1,3-glucanase;exo-β-1,3-glucanase;exo-β-1,6-glucanase;β-1,3-glucanase|cellobiose phosphorylase;cellobiohydrolase
+		
+galacturonide		
+T:pectin -> galacturonide		endo-xylogalacturonase
+U:galacturonide -> galacturonate		exo-polygalacturonase;exo-polygalacturonosidase;oligogalacturonide lyase
+T+U		exo-polygalacturonase;exo-polygalacturonosidase;oligogalacturonide lyase|endo-xylogalacturonase
+		
+maltose		
+V:pullulan/starch -> maltose		pullulanase;β-amylase;isopullulanase
+W:maltose -> D-glucose		amylomaltase;maltose phosphorylase
+V+W		pullulanase;β-amylase;isopullulanase|amylomaltase;maltose phosphorylase
+		
+mannooligosaccharide		
+X:mannan -> mannooligosaccharide		β-endomannanase;β-mannanase;endo-β-1,4-mannanase
+Y:mannooligosaccharide -> D-mannose		α-mannosidase;β-1,4-mannooligosaccharide phosphorylase;β-mannosidase
+X+Y		β-endomannanase;β-mannanase;endo-β-1,4-mannanase|α-mannosidase;β-1,4-mannooligosaccharide phosphorylase;β-mannosidase
+		
+RG-oligosaccharide		
+Z:rhamnogalacturan -> RG-oligosaccharide		endo-rhamnogalacturonase
+AB:RG-oligosaccharide -> RG		exo-rhamnogalacturonase
+Z+AB		endo-rhamnogalacturonase|exo-rhamnogalacturonase
+		
+xylogluco-oligosaccharide		
+AC:xyloglucan -> xylogluco-oligosaccharide		endoglucanase (xyloglucanase);endoglucanase;endo-xyloglucanase;xyloglucanase
+AD:xylogluco-oligosaccharide -> xylose+glucose		β-glucosidase
+AC+AD		endoglucanase (xyloglucanase);endoglucanase;endo-xyloglucanase;xyloglucanase|β-glucosidase
+		
+xylo-oligosaccharide		
+AE:xylan -> xylo-oligosaccharide		β-1,3-endoxylanase;β-1,4-endoxylanase;endo-β-1,3-xylanase;endo-β-1,4-galactosidase;endo-β-1,4-xylanase;xylanase
+AF:xylo-oligosaccharide -> xylose		β-1,4-xylosidase;β-1,3-xylosidase
+AE+AF		β-1,3-endoxylanase;β-1,4-endoxylanase;endo-β-1,3-xylanase;endo-β-1,4-galactosidase;endo-β-1,4-xylanase;xylanase|β-1,4-xylosidase;β-1,3-xylosidase

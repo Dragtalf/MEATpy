@@ -1,0 +1,30 @@
+Sulfur oxidation		
+A:S2-=>S0	S-S-01:Sulfide oxidation	PF09242.hmm,sulfide_quinone_oxidoreductase_sqr.hmm
+B:S0=>SO32-	S-S-03:Sulfur oxidation	PF07682.hmm,sulfur_dioxygenase_sdo.hmm
+C:SO32-=>SO42-	S-S-04:Sulfite oxidation	aprA.hmm,TIGR00339.hmm
+A+B		PF09242.hmm,sulfide_quinone_oxidoreductase_sqr.hmm;PF07682.hmm,sulfur_dioxygenase_sdo.hmm
+B+C		PF07682.hmm,sulfur_dioxygenase_sdo.hmm;aprA.hmm,TIGR00339.hmm
+A+B+C		PF09242.hmm,sulfide_quinone_oxidoreductase_sqr.hmm;PF07682.hmm,sulfur_dioxygenase_sdo.hmm;aprA.hmm,TIGR00339.hmm
+		
+Sulfur reduction		
+D:SO42-=>SO32-	S-S-05:Sulfate reduction	aprA.hmm,TIGR00339.hmm
+E:SO32-=>S2-	S-S-06:Sulfite reduction	asrA.hmm,asrB.hmm,asrC.hmm,dsrA.hmm,dsrB.hmm,dsrD.hmm
+D+E		aprA.hmm,TIGR00339.hmm;asrA.hmm,asrB.hmm,asrC.hmm,dsrA.hmm,dsrB.hmm,dsrD.hmm
+		
+Denitrification		
+F:NO3-=>NO2-	N-S-04:Nitrate reduction	TIGR01706.hmm,PF03892.hmm,TIGR01580.hmm,TIGR01660.hmm
+G:NO2-=>NO	N-S-05:Nitrite reduction	TIGR02376.hmm,nitrite_reductase_nirS.hmm,TIGR04315.hmm
+H:NO=>N2O	N-S-06:Nitric oxide reduction	nitric_oxide_reductase_norB.hmm,nitric_oxide_reductase_norC.hmm
+I:N2O=>N2	N-S-07:Nitrous oxide reduction	PF05048.hmm,TIGR04246.hmm
+F+G		TIGR01706.hmm,PF03892.hmm,TIGR01580.hmm,TIGR01660.hmm;TIGR02376.hmm,nitrite_reductase_nirS.hmm,TIGR04315.hmm
+G+H		TIGR02376.hmm,nitrite_reductase_nirS.hmm,TIGR04315.hmm;nitric_oxide_reductase_norB.hmm,nitric_oxide_reductase_norC.hmm
+H+I		nitric_oxide_reductase_norB.hmm,nitric_oxide_reductase_norC.hmm;PF05048.hmm,TIGR04246.hmm
+F+G+H+I		TIGR01706.hmm,PF03892.hmm,TIGR01580.hmm,TIGR01660.hmm;TIGR02376.hmm,nitrite_reductase_nirS.hmm,TIGR04315.hmm;nitric_oxide_reductase_norB.hmm,nitric_oxide_reductase_norC.hmm;PF05048.hmm,TIGR04246.hmm
+		
+Nitrogen fixation and nitrification		
+J:N2=>NH4+	N-S-01:Nitrogen fixation	TIGR01861.hmm,TIGR02931.hmm,TIGR02929.hmm,TIGR01282.hmm,TIGR01286.hmm,TIGR01860.hmm,TIGR02932.hmm,TIGR02930.hmm,TIGR01287.hmm
+K:NH4+=>NO2-	N-S-02:Ammonia oxidation	TIGR03080.hmm,TIGR03079.hmm,TIGR03078.hmm
+L:NO2-=>NO3-	N-S-03:Nitrite oxidation	nitrite_oxidoreductase_nxrA.hmm,nitrite_oxidoreductase_nxrB.hmm
+J+K		TIGR01861.hmm,TIGR02931.hmm,TIGR02929.hmm,TIGR01282.hmm,TIGR01286.hmm,TIGR01860.hmm,TIGR02932.hmm,TIGR02930.hmm,TIGR01287.hmm;TIGR03080.hmm,TIGR03079.hmm,TIGR03078.hmm
+K+L		TIGR03080.hmm,TIGR03079.hmm,TIGR03078.hmm;nitrite_oxidoreductase_nxrA.hmm,nitrite_oxidoreductase_nxrB.hmm
+J+K+L		TIGR01861.hmm,TIGR02931.hmm,TIGR02929.hmm,TIGR01282.hmm,TIGR01286.hmm,TIGR01860.hmm,TIGR02932.hmm,TIGR02930.hmm,TIGR01287.hmm;TIGR03080.hmm,TIGR03079.hmm,TIGR03078.hmm;nitrite_oxidoreductase_nxrA.hmm,nitrite_oxidoreductase_nxrB.hmm

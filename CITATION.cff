@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use MEATpy in your research, please cite this software along with the original METABOLIC publication."
+title: "MEATpy – Microbial Ecosystem Annotation Toolkit (Python)"
+authors:
+  - family-names: Flatgard
+    given-names: Brandon M.
+    orcid: "https://orcid.org/0000-0002-4252-9688"
+repository-code: "https://github.com/Dragtalf/MEATpy"
+license: "GPL-3.0"
+keywords:
+  - bioinformatics
+  - metabolism
+  - microbial genomes
+  - genome annotation
+  - functional traits
+date-released: "2025-05-03"
+
+preferred-citation:
+  type: software
+  title: "MEATpy – Microbial Ecosystem Annotation Toolkit (Python)"
+  authors:
+    - family-names: Flatgard
+      given-names: BM
+      orcid: "https://orcid.org/0000-0002-4252-9688"
+  year: 2025
+  url: "https://github.com/Dragtalf/MEATpy"
+  version: "1.0.0"
+
+references:
+  - type: article
+    title: "METABOLIC: high-throughput profiling of microbial genomes for functional traits, metabolism, biogeochemistry, and community-scale functional networks"
+    authors:
+      - family-names: Zhou
+        given-names: Z.
+      - family-names: Tran
+        given-names: P. Q.
+      - family-names: Breister
+        given-names: A. M.
+      - name: et al.
+    journal: "Microbiome"
+    volume: "10"
+    page: "33"
+    year: 2022
+    doi: "10.1186/s40168-021-01213-8"

@@ -1,0 +1,54 @@
+Category	Reaction_Letter	Reaction_long	Reaction_Letter_Long	General_Category	Genes
+Sulfur oxidation	A	S2-=>S0	A:S2-=>S0	S-S-01:Sulfide oxidation	PF09242.hmm,sulfide_quinone_oxidoreductase_sqr.hmm
+Sulfur oxidation	B	S0=>SO32-	B:S0=>SO32-	S-S-03:Sulfur oxidation	PF07682.hmm,sulfur_dioxygenase_sdo.hmm
+Sulfur oxidation	C	SO32-=>SO42-	C:SO32-=>SO42-	S-S-04:Sulfite oxidation	aprA.hmm,TIGR00339.hmm
+Sulfur oxidation	A+B		A+B		PF09242.hmm,sulfide_quinone_oxidoreductase_sqr.hmm,PF07682.hmm,sulfur_dioxygenase_sdo.hmm
+Sulfur oxidation	B+C		B+C		PF07682.hmm,sulfur_dioxygenase_sdo.hmm,aprA.hmm,TIGR00339.hmm
+Sulfur oxidation	A+B+C		A+B+C		PF09242.hmm,sulfide_quinone_oxidoreductase_sqr.hmm,PF07682.hmm,sulfur_dioxygenase_sdo.hmm,aprA.hmm,TIGR00339.hmm
+Sulfur reduction	D	SO42-=>SO32-	D:SO42-=>SO32-	S-S-05:Sulfate reduction	aprA.hmm,TIGR00339.hmm
+Sulfur reduction	E	SO32-=>S2-	E:SO32-=>S2-	S-S-06:Sulfite reduction	asrA.hmm,asrB.hmm,asrC.hmm,dsrA.hmm,dsrB.hmm,dsrD.hmm
+Sulfur reduction	D+E		D+E		aprA.hmm,TIGR00339.hmm,asrA.hmm,asrB.hmm,asrC.hmm,dsrA.hmm,dsrB.hmm,dsrD.hmm
+Denitrification	F	NO3-=>NO2-	F:NO3-=>NO2-	N-S-04:Nitrate reduction	TIGR01706.hmm,PF03892.hmm,TIGR01580.hmm,TIGR01660.hmm
+Denitrification	G	NO2-=>NO	G:NO2-=>NO	N-S-05:Nitrite reduction	TIGR02376.hmm,nitrite_reductase_nirS.hmm,TIGR04315.hmm
+Denitrification	H	NO=>N2O	H:NO=>N2O	N-S-06:Nitric oxide reduction	nitric_oxide_reductase_norB.hmm,nitric_oxide_reductase_norC.hmm
+Denitrification	I	N2O=>N2	I:N2O=>N2	N-S-07:Nitrous oxide reduction	PF05048.hmm,TIGR04246.hmm
+Denitrification	F+G		F+G		TIGR01706.hmm,PF03892.hmm,TIGR01580.hmm,TIGR01660.hmm,TIGR02376.hmm,nitrite_reductase_nirS.hmm,TIGR04315.hmm
+Denitrification	G+H		G+H		TIGR02376.hmm,nitrite_reductase_nirS.hmm,TIGR04315.hmm,nitric_oxide_reductase_norB.hmm,nitric_oxide_reductase_norC.hmm
+Denitrification	H+I		H+I		nitric_oxide_reductase_norB.hmm,nitric_oxide_reductase_norC.hmm,PF05048.hmm,TIGR04246.hmm
+Denitrification	F+G+H+I		F+G+H+I		TIGR01706.hmm,PF03892.hmm,TIGR01580.hmm,TIGR01660.hmm,TIGR02376.hmm,nitrite_reductase_nirS.hmm,TIGR04315.hmm,nitric_oxide_reductase_norB.hmm,nitric_oxide_reductase_norC.hmm,PF05048.hmm,TIGR04246.hmm
+Nitrogen fixation	J	N2=>NH4+	J:N2=>NH4+	N-S-01:Nitrogen fixation	TIGR01861.hmm,TIGR02931.hmm,TIGR02929.hmm,TIGR01282.hmm,TIGR01286.hmm,TIGR01860.hmm,TIGR02932.hmm,TIGR02930.hmm,TIGR01287.hmm
+Nitrogen fixation	K	NH4+=>NO2-	K:NH4+=>NO2-	N-S-02:Ammonia oxidation	TIGR03080.hmm,TIGR03079.hmm,TIGR03078.hmm
+Nitrogen fixation	L	NO2-=>NO3-	L:NO2-=>NO3-	N-S-03:Nitrite oxidation	nitrite_oxidoreductase_nxrA.hmm,nitrite_oxidoreductase_nxrB.hmm
+Nitrogen fixation	J+K		J+K		TIGR01861.hmm,TIGR02931.hmm,TIGR02929.hmm,TIGR01282.hmm,TIGR01286.hmm,TIGR01860.hmm,TIGR02932.hmm,TIGR02930.hmm,TIGR01287.hmm,TIGR03080.hmm,TIGR03079.hmm,TIGR03078.hmm
+Nitrogen fixation	K+L		K+L		TIGR03080.hmm,TIGR03079.hmm,TIGR03078.hmm,nitrite_oxidoreductase_nxrA.hmm,nitrite_oxidoreductase_nxrB.hmm
+Nitrogen fixation	J+K+L		J+K+L		TIGR01861.hmm,TIGR02931.hmm,TIGR02929.hmm,TIGR01282.hmm,TIGR01286.hmm,TIGR01860.hmm,TIGR02932.hmm,TIGR02930.hmm,TIGR01287.hmm,TIGR03080.hmm,TIGR03079.hmm,TIGR03078.hmm,nitrite_oxidoreductase_nxrA.hmm,nitrite_oxidoreductase_nxrB.hmm
+AG-oligosaccharide degradation - 1	M	arabinogalactan -> AG-oligosaccharide	M:arabinogalactan -> AG-oligosaccharide		β-1,4-endogalactanase; L-rhamnose-α-1,4-D-glucuronate lyase; L-Rhα-α-1,4-GlcA α-L-rhamnohydrolase
+AG-oligosaccharide degradation - 2	N	AG-oligosaccharide -> D-galactose	N:AG-oligosaccharide -> D-galactose		β-galactosidase
+AG-oligosaccharide degradation - 3	M+N		M+N		β-1,4-endogalactanase; L-rhamnose-α-1,4-D-glucuronate lyase; L-Rhα-α-1,4-GlcA α-L-rhamnohydrolase; β-galactosidase
+AG-oligosaccharide degradation - 2	M	arabinogalactan -> AG-oligosaccharide	M:arabinogalactan -> AG-oligosaccharide		β-1,4-endogalactanase; L-rhamnose-α-1,4-D-glucuronate lyase; L-Rhα-α-1,4-GlcA α-L-rhamnohydrolase
+AG-oligosaccharide degradation - 3	O	AG-oligosaccharide -> L-arabinopyranose	O:AG-oligosaccharide -> L-arabinopyranose		L-arabinopyranose
+AG-oligosaccharide degradation - 4	M+O		M+O		β-1,4-endogalactanase; L-rhamnose-α-1,4-D-glucuronate lyase; L-Rhα-α-1,4-GlcA α-L-rhamnohydrolase; L-arabinopyranose
+alginate oligosaccharide degradation	P	alginate -> alginate oligosaccharide	P:alginate -> alginate oligosaccharide		alginate lyase; M-specific alginate lyase
+alginate oligosaccharide degradation	Q	alginate oligosaccharide -> alginate monosaccharide	Q:alginate oligosaccharide -> alginate monosaccharide		oligoalginate lyase
+alginate oligosaccharide degradation	P+Q		P+Q		alginate lyase; M-specific alginate lyase; oligoalginate lyase
+Cellobiose	R	cellulose chain -> cellobiose	R:cellulose chain -> cellobiose		α-1,3-glucanase; exo-β-1,3-glucanase; exo-β-1,6-glucanase; β-1,3-glucanase
+Cellobiose	S	cellobiose -> glucose	S:cellobiose -> glucose		cellobiose phosphorylase; cellobiohydrolase
+Cellobiose	R+S		R+S		α-1,3-glucanase; exo-β-1,3-glucanase; exo-β-1,6-glucanase; β-1,3-glucanase; cellobiose phosphorylase; cellobiohydrolase
+galacturonide	T	pectin -> galacturonide	T:pectin -> galacturonide		endo-xylogalacturonase
+galacturonide	U	galacturonide -> galacturonate	U:galacturonide -> galacturonate		exo-polygalacturonase; exo-polygalacturonosidase; oligogalacturonide lyase
+galacturonide	T+U		T+U		exo-polygalacturonase; exo-polygalacturonosidase; oligogalacturonide lyase; endo-xylogalacturonase
+maltose	V	pullulan/starch -> maltose	V:pullulan/starch -> maltose		pullulanase; β-amylase; isopullulanase
+maltose	W	maltose -> D-glucose	W:maltose -> D-glucose		amylomaltase; maltose phosphorylase
+maltose	V+W		V+W		pullulanase; β-amylase; isopullulanase; amylomaltase; maltose phosphorylase
+mannooligosaccharide	X	mannan -> mannooligosaccharide	X:mannan -> mannooligosaccharide		β-endomannanase; β-mannanase; endo-β-1,4-mannanase
+mannooligosaccharide	Y	mannooligosaccharide -> D-mannose	Y:mannooligosaccharide -> D-mannose		α-mannosidase; β-1,4-mannooligosaccharide phosphorylase; β-mannosidase
+mannooligosaccharide	X+Y		X+Y		β-endomannanase; β-mannanase; endo-β-1,4-mannanase; α-mannosidase; β-1,4-mannooligosaccharide phosphorylase; β-mannosidase
+RG-oligosaccharide	Z	rhamnogalacturan -> RG-oligosaccharide	Z:rhamnogalacturan -> RG-oligosaccharide		endo-rhamnogalacturonase
+RG-oligosaccharide	AB	RG-oligosaccharide -> RG	AB:RG-oligosaccharide -> RG		exo-rhamnogalacturonase
+RG-oligosaccharide	Z+AB		Z+AB		endo-rhamnogalacturonase; exo-rhamnogalacturonase
+xylogluco-oligosaccharide	AC	xyloglucan -> xylogluco-oligosaccharide	AC:xyloglucan -> xylogluco-oligosaccharide		endoglucanase (xyloglucanase); endoglucanase; endo-xyloglucanase; xyloglucanase
+xylogluco-oligosaccharide	AD	xylogluco-oligosaccharide -> xylose+glucose	AD:xylogluco-oligosaccharide -> xylose+glucose		β-glucosidase
+xylogluco-oligosaccharide	AC+AD		AC+AD		endoglucanase (xyloglucanase); endoglucanase; endo-xyloglucanase; xyloglucanase; β-glucosidase
+xylo-oligosaccharide	AE	xylan -> xylo-oligosaccharide	AE:xylan -> xylo-oligosaccharide		β-1,3-endoxylanase; β-1,4-endoxylanase; endo-β-1,3-xylanase; endo-β-1,4-galactosidase; endo-β-1,4-xylanase; xylanase
+xylo-oligosaccharide	AF	xylo-oligosaccharide -> xylose	AF:xylo-oligosaccharide -> xylose		β-1,4-xylosidase; β-1,3-xylosidase
+xylo-oligosaccharide	AE+AF		AE+AF		β-1,3-endoxylanase; β-1,4-endoxylanase; endo-β-1,3-xylanase; endo-β-1,4-galactosidase; endo-β-1,4-xylanase; xylanase; β-1,4-xylosidase; β-1,3-xylosidase
