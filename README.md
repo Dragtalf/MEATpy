@@ -191,13 +191,15 @@ python start.py -i ~/MEATpy_input/ -csv ~/sample_reads.csv -o ~/MEATpy_Out -tax 
 If you use this software, please cite **both** this tool and the original METABOLIC paper.
 
 **MEATpy – Microbial Ecosystem Annotation Toolkit (Python)**
-Flatgard, B.M. *MEATpy – Microbial Ecosystem Annotation Toolkit (Python).* 2025.
-GitHub: [https://github.com/Dragtalf/MEATpy](https://github.com/Dragtalf/MEATpy)
+## Citation
+
+> Flatgard, B. M. (2025). *MEATpy – Microbial Ecosystem Annotation Toolkit (Python)*. [doi.org/10.5281/zenodo.17317008](https://doi.org/10.5281/zenodo.17317008).  
+> GitHub: [https://github.com/Dragtalf/MEATpy](https://github.com/Dragtalf/MEATpy)
 
 **METABOLIC**
-Zhou, Z., Tran, P.Q., Breister, A.M., *et al.* (2022).
-METABOLIC: high-throughput profiling of microbial genomes for functional traits, metabolism, biogeochemistry, and community-scale functional networks.
-*Microbiome* **10**, 33. [https://doi.org/10.1186/s40168-021-01213-8](https://doi.org/10.1186/s40168-021-01213-8)
+> Zhou, Z., Tran, P.Q., Breister, A.M., *et al.* (2022).
+> METABOLIC: high-throughput profiling of microbial genomes for functional traits, metabolism, biogeochemistry, and community-scale functional networks.
+> *Microbiome* **10**, 33. [doi.org/10.1186/s40168-021-01213-8](https://doi.org/10.1186/s40168-021-01213-8)
 
 ---
 
