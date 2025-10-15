@@ -2,6 +2,8 @@
 
 ## About This Tool
 
+This project, developed by Brandon Flatgard M.S., a PhD candidate under Dr. Amin Islam in the Islam Lab at Washington State University (Paul G. Allen School for Global Health, College of Veterinary Medicine), is a reimagining of the METABOLIC framework for metabolic and biogeochemical trait profiling of microbial genomes.
+
 This project is a reimagining of the [METABOLIC](https://github.com/AnantharamanLab/METABOLIC) framework for metabolic and biogeochemical trait profiling of microbial genomes.
 
 While inspired by METABOLIC-G and METABOLIC-C, this version was rebuilt from the ground up in Python with expanded functionality and automation, making it easier to run, integrate, and modify. Output is designed to be similar to the original METABOLIC.
