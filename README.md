@@ -195,7 +195,7 @@ If you use this software, please cite **both** this tool and the original METABO
 **MEATpy – Microbial Ecosystem Annotation Toolkit (Python)**
 ## Citation
 
-> Flatgard, B. M. (2025). *MEATpy – Microbial Ecosystem Annotation Toolkit (Python)*. [doi.org/10.5281/zenodo.17317008](https://doi.org/10.5281/zenodo.17317008).  
+> Flatgard, B. M. & Islam, M. A. (2025). *MEATpy – Microbial Ecosystem Annotation Toolkit (Python)*. [doi.org/10.5281/zenodo.17317008](https://doi.org/10.5281/zenodo.17317008).  
 > GitHub: [https://github.com/Dragtalf/MEATpy](https://github.com/Dragtalf/MEATpy)
 
 **METABOLIC**
